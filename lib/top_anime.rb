@@ -6,4 +6,5 @@ module TopAnime
 end
 
 require_relative "top_anime/cli"
-
+require_relative "lib/scraper.rb"
+require_relative "lib/list.rb"
